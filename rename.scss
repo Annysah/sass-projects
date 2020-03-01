@@ -1,0 +1,22 @@
+/* define variables for the primary colors */
+$white: #fff;
+$green: forestgreen; 
+$align: center;
+
+/* use the variables */
+body {
+    background-color: $green;
+    text-align: $align;
+}
+.contact-form {
+    color: $white;
+}
+.contact-form h2 {
+    color: $white;
+}
+.box {
+    text-align: $align;
+}
+.form-control {
+    color: $white;
+}
